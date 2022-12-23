@@ -5,9 +5,9 @@
 </p>
 
 # Lucas Pequeno Sterzeck
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Data Scientist and RPA developer* at Raízen</sub>
 
-Hobbist data scientist using tool's of RPA.
+Data scientist with experiencie in tool's of RPA.
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
